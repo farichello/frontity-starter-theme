@@ -52,7 +52,7 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          api: "https://test.frontity.io/wp-json",
+          api: "https://fnwb.site/wp-json",
           params: {
             per_page: 12
           }
